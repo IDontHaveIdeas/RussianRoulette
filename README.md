@@ -1,3 +1,3 @@
 # RussianRoulette
 
-Code make by @Dunna14
+Code make by @Dunna14: https://github.com/Dunna14
